@@ -1,0 +1,62 @@
+.cover{
+   height: 50vh;
+   width: 100%;
+
+}
+.profile{
+	height: 20vh;
+	width: 20vh;
+	top:45vh;
+	margin-left: 10vh;
+	z-index: 3;
+   
+}
+
+.cardd{
+	
+	margin-top: 70vh;
+	margin-left: 12vw;
+}
+
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  background-color:#e9ebee;
+
+}
+
+
+
+.navv{
+	padding-bottom: 2vh;
+}
+.postcard{
+	 display:none;
+}
+ .aboutme .postpage :hover{
+  border:2vh;
+}
+#btn{
+	 border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 4px 4px;
+  font-size: 16px;
+  cursor: pointer;
+  color:black;
+}
+
+#btn:hover {
+  background-color: #4CAF50;
+  color: black;
+}
+.homepage{
+	display: none;
+}
+.mainpage{
+	display: block;
+}
+.logout{
+	 margin-left: 10vw;
+
+}
